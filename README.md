@@ -11,3 +11,6 @@ I haven't found another file so I have created this file. Use this as a starting
 * Small Device (MD)      ( ≥ 768px )
 * Medium Device (LG)     ( ≥ 1024px )
 * Large Device (XL)      ( ≥ 1280px )
+* Grid for zeplin.io
+
+![Zeplin Grid](preview-zeplin.png)
