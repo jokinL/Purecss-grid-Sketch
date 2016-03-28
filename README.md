@@ -2,6 +2,8 @@
 
 I haven't found another file so I have created this file. Use this as a starting point for designing a site in Sketch that will utilize the purecss.io
 
+![Sketch 3 Purecss Template](preview.png)
+
 ## Includes:
 
 * Extra Small Devices    ( ≥ 320px 2col + 1 col )
